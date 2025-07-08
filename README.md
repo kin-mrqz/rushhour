@@ -1,8 +1,6 @@
-## COMP2113_ENGG1340 Programming technologies and Computer programming II
+## Rush Hour in C++: A School Project
 
 ### Team Details: 
-**Team Number** (on Moodle): 21
-
 **Members**:
 * Jose Joaquin Marquez (3036263622)
 * Taeuk Nam (3035709332)
